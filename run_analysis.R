@@ -115,7 +115,7 @@ colnames(final_data)    # to show the colomns' names and ALL related to the aver
 library(data.table)
 tmp_dt <- as.data.table(final_data)
 
-#library(plyr)    ## You might need it if you don't have downloaded it before!
+library(plyr)    ## You might need it if you don't have downloaded it before!
 final_dt<- ddply(tmp_dt, .(SubjectID, y_data), numcolwise(mean))
 
 for (i in 1:180)
