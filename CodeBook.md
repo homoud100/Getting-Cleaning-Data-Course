@@ -69,18 +69,48 @@ So, I have all names without "average" word on them. Here is the explinations of
 ###20. TimeBodyAccJerkSTD_z
       Average of Time Body Acc. Jerk Standered Deviation in z axis.
       
+###21. TimeBodyGyroMean_x
+      Average of Time Body Gyro Mean in x axis.
+      
+###22. TimeBodyGyroMean_y
+      Average of Time Body Gyro Mean in y axis.
+      
+###23. TimeBodyGyroMean_z
+      Average of Time Body Gyro Mean in z axis.
+      
+###24. TimeBodyGyroSTD_x
+      Average of Time Body Gyro Standered Deviation in x axis.
+      
+###25. TimeBodyGyroSTD_y
+      Average of Time Body Gyro Standered Deviation in y axis.
+      
+###26. TimeBodyGyroSTD_z
+      Average of Time Body Gyro Standered Deviation in z axis.
+ 
+###27. TimeBodyGyroJerkMean_x
+      Average of Time Body Gyro Jerk Mean in x axis.     
 
+###28. TimeBodyGyroJerkMean_y
+      Average of Time Body Gyro Jerk Mean in y axis.     
+
+###29. TimeBodyGyroJerkMean_z
+      Average of Time Body Gyro Jerk Mean in z axis.     
+
+###30. TimeBodyGyroJerkSTD_x
+      Average of Time Body Gyro Jerk Standered Deviation in x axis.   
       
+###31. TimeBodyGyroJerkSTD_y
+      Average of Time Body Gyro Jerk Standered Deviation in y axis. 
       
+###32. TimeBodyGyroJerkSTD_z
+      Average of Time Body Gyro Jerk Standered Deviation in z axis. 
       
-      
-      
-      
-      
-      
-      
-      
-      
+###33. TimeBodyAccMagMean
+      Average of Time Body Acc. Magnitude Mean.
+
+###34. TimeBodyAccMagSTD
+      Average of Time Body Acc. Magnitude Standered Deviation.
+
       
       
       
