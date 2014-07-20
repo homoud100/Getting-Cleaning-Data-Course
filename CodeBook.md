@@ -8,12 +8,12 @@ So, I have all names without "average" word on them. Here is the explinations of
       
 ###2. y_data
       Status of the subject between six statuses:
-      *     WALKING.
-      *     WALKING UPSTAIRES.
-      *     WALKING DOWNSTAIRES.
-      *     STANDING.
-      *     LAYING.
-      *     SITTING.
+      1.     WALKING.
+      2.     WALKING UPSTAIRES.
+      3.     WALKING DOWNSTAIRES.
+      4.     STANDING.
+      5.     LAYING.
+      6.     SITTING.
 
 ###3. TimeBodyAccMean_x
       Average of Time Body Acc. Mean in x axis.
@@ -110,11 +110,112 @@ So, I have all names without "average" word on them. Here is the explinations of
 
 ###34. TimeBodyAccMagSTD
       Average of Time Body Acc. Magnitude Standered Deviation.
+      
+###35. TimeGravityAccMagMean
+      Average of Time Gravity Acc. Magnitude Mean.
+      
+###36. TimeGravityAccMagSTD
+      Average of Time Gravity Acc. Magnitude Standered Deviation.
 
+###37. TimeBodyAccJerkMagMean
+      Average of Time Body Acc. Jerk Magnitude Mean.
       
+###38. TimeBodyAccJerkMagSTD
+      Average of Time Body Acc. Jerk Magnitude Standered Deviation.
+     
+###39. TimeBodyGyroMagMean
+      Average of Time Body Gyro Magnitude Mean.
       
+###40. TimeBodyGyroMagSTD
+      Average of Time Body Gyro Magnitude Standered Deviation.
+
+###41. TimeBodyGyroJerkMagMean
+      Average of Time Body Gyro Jerk Magnitude Mean.
       
+###42. TimeBodyGyroJerkMagSTD
+      Average of Time Body Gyro Jerk Magnitude Standered Deviation.
+
+###43. FreqBodyAccMean_x
+      Average of Frequency Body Acc. Mean in x axis.
+
+###44. FreqBodyAccMean_y
+      Average of Frequency Body Acc. Mean in y axis.
       
+###45. FreqBodyAccMean_z
+      Average of Frequency Body Acc. Mean in z axis.  
       
+###46. FreqBodyAccSTD_x
+      Average of Frequency Body Acc. Standered Deviation in x axis.
       
+###47. FreqBodyAccSTD_y
+      Average of Frequency Body Acc. Standered Deviation in y axis.
       
+###48. FreqBodyAccSTD_z
+      Average of Frequency Body Acc. Standered Deviation in z axis.
+    
+###49. FreqBodyAccJerkMean_x
+      Average of Frequency Body Acc. Jerk Mean in x axis.
+      
+###50. FreqBodyAccJerkMean_y
+      Average of Frequency Body Acc. Jerk Mean in y axis.
+           
+###51. FreqBodyAccJerkMean_z
+      Average of Frequency Body Acc. Jerk Mean in z axis.
+      
+###52. FreqBodyAccJerkSTD_x
+      Average of Frequency Body Acc. Jerk Standered Deviation in x axis.
+      
+###53. FreqBodyAccJerkSTD_y
+      Average of Frequency Body Acc. Jerk Standered Deviation in y axis.
+      
+###54. FreqBodyAccJerkSTD_z
+      Average of Frequency Body Acc. Jerk Standered Deviation in z axis.  
+
+###55. FreqBodyGyroMean_x
+      Average of Frequency Body Gyro Mean in x axis.
+      
+###56. FreqBodyGyroMean_y
+      Average of Frequency Body Gyro Mean in y axis.
+      
+###57. FreqBodyGyroMean_z
+      Average of Frequency Body Gyro Mean in z axis.
+      
+###58. FreqBodyGyroSTD_x
+      Average of Frequency Body Gyro Standered Deviation in x axis.
+      
+###59. FreqBodyGyroSTD_y
+      Average of Frequency Body Gyro Standered Deviation in y axis.
+      
+###60. FreqBodyGyroSTD_z
+      Average of Frequency Body Gyro Standered Deviation in z axis.
+
+###61. FreqBodyAccMagMean
+      Average of Frequency Body Acc. Magnitude Mean.
+
+###62. FreqBodyAccMagSTD
+      Average of Frequency Body Acc. Magnitude Standered Deviation.
+
+###63. FreqBodyBodyAccJerkMagMean
+      Average of Frequency Body Body Acc. Jerk Magnitude Mean.
+      
+###64. FreqBodyBodyAccJerkMagSTD
+      Average of Frequency Body Body Acc. Jerk Magnitude Standered Deviation.
+ 
+###65. FreqBodyBodyGyroMagMean
+      Average of Frequency Body Body Gyro Magnitude Mean.
+      
+###66. FreqBodyBodyGyroMagSTD
+      Average of Frequency Body Body Gyro Magnitude Standered Deviation.    
+
+###65. FreqBodyBodyGyroJerkMagMean
+      Average of Frequency Body Body Gyro Jerk Magnitude Mean.
+      
+###66. FreqBodyBodyGyroJerkMagSTD
+      Average of Frequency Body Body Gyro Jerk Magnitude Standered Deviation. 
+
+
+
+
+
+
+
